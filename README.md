@@ -1,6 +1,6 @@
 # Workout Program
 
-A structured **30-workout training planner** built with **React** and styled with **FantaCSS**.  
+A structured **30-workout training planner**.  
 Designed for individuals who want a clear, organized approach to fitness and consistent progress.
 
 ## Features
