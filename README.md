@@ -1,16 +1,24 @@
-# React + Vite
+# Workout Program
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A structured **30-workout training planner** built with **React** and styled with **FantaCSS**.  
+Designed for individuals who want a clear, organized approach to fitness and consistent progress.
 
-Currently, two official plugins are available:
+## Features
+- 📋 Plan and track 30 structured workouts  
+- 🔍 Clean, intuitive interface for quick navigation  
+- ⚛️ Powered by React + Vite for modern development efficiency  
+- 🎨 Styled with FantaCSS for a modern, polished look  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React (Frontend)
+- Vite (Build tool)  
+- JavaScript  
+- CSS  
+- HTML  
+- Client-side storage (localStorage database)
+- Deployed via Netlify [Live](https://jww-workoutprogram.netlify.app/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Purpose
+Created as part of my [portfolio](https://jww-webportfolio.netlify.app/) to demonstrate full-stack development capabilities and a focus on building structured, user-centric applications.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
